@@ -1,0 +1,1 @@
+# bondiciti-ebay-template
